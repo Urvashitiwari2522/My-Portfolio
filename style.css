@@ -365,10 +365,3 @@ P/* Center the Skills Heading */
     text-align: left;
     background-color: #f5f5f5; /* Light background to match Projects table */
 }
-.profile-photo {
-    width: 150px; /* Set the desired width */
-    height: 150px; /* Set the desired height */
-    object-fit: cover; /* Ensures the image covers the area without distortion */
-    border-radius: 50%; /* Makes the image circular */
-    border: 2px solid #ccc; /* Adds a border around the image */
-}
