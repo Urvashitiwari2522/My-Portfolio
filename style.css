@@ -377,3 +377,6 @@ P/* Center the Skills Heading */
     border-radius: 50%; /* Make it circular */
     object-fit: cover; /* Ensures the image fills the container properly */
 }
+.hero-image {
+    justify-content: flex-end; /* Move to the right */
+}
