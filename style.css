@@ -365,18 +365,3 @@ P/* Center the Skills Heading */
     text-align: left;
     background-color: #f5f5f5; /* Light background to match Projects table */
 }
-.hero-image {
-    display: flex;
-    justify-content: center; /* Centers the image horizontally */
-    align-items: center; /* Centers the image vertically */
-}
-
-.profile-img {
-    width: 250px; /* Adjust width */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: 50%; /* Make it circular */
-    object-fit: cover; /* Ensures the image fills the container properly */
-}
-.hero-image {
-    justify-content: flex-end; /* Move to the right */
-}
